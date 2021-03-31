@@ -1,0 +1,22 @@
+h1{
+    color:aqua ;
+    font-size: 3em;
+}
+h2{ 
+    color:blue;
+    font-size: 4em;
+    text-decoration: underline;
+}
+
+#Datenbank{color:blueviolet;
+    font-size: 3em;
+
+}
+#Anschrift{ color:black;
+    font-size: 1.5em;
+}
+h3{
+    color:black;
+    font-size: 3em
+    
+}
