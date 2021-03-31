@@ -1,0 +1,29 @@
+h1{
+    color :red;
+    font-size: 3em;
+}
+h2{
+    color:green;
+}
+body{background-color: grey;
+}
+body 
+{color:blue;
+}
+#absatz{
+    color:yellow;
+    text-decoration: underline;
+    }
+
+#ipsum    {
+    font-size: 3em;
+
+}
+#img {width: 48vw;
+    height: auto; 
+    ;   
+}
+.gruen {color:green;
+
+}
+
